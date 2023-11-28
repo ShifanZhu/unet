@@ -48,6 +48,8 @@ This tutorial depends on the following libraries:
 * Tensorflow
 * Keras >= 1.0
 
+* keras (2.0.6) tensorflow (1.2.1) are verified to work. :)
+
 Also, this code should be compatible with Python versions 2.7-3.5.
 
 ### Run main.py
